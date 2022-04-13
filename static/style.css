@@ -1,0 +1,24 @@
+body{
+    margin: 30px;
+}
+
+ul {
+    list-style: none;
+}
+
+.form-group, form > * {
+    margin: 5px;
+}
+
+.btn-small {
+    padding: 3px;
+    font-size: smaller;
+}
+
+.figure {
+    margin-top: 5px;
+}
+
+.row {
+    margin-top: 20px;
+}
